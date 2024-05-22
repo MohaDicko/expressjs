@@ -1,0 +1,17 @@
+nav {
+    text-align: center;
+    background-color: black;
+    color: bisque;
+    padding: 1%;
+    & a {
+        color: bisque;
+        font-weight: bold;
+    }
+}
+
+
+*{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
